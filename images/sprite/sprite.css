@@ -1,0 +1,16 @@
+.icn{ display: inline-block; background: url('sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.clock { background-position: -0px -0px; width: 40px; height: 40px; }
+.consalting_gr { background-position: -0px -40px; width: 40px; height: 40px; }
+.cup { background-position: -0px -80px; width: 40px; height: 38px; }
+.develop_gr { background-position: -0px -118px; width: 40px; height: 40px; }
+.disign_gr { background-position: -0px -158px; width: 40px; height: 40px; }
+.eye { background-position: -0px -198px; width: 40px; height: 40px; }
+.people { background-position: -0px -238px; width: 38px; height: 38px; }
+.rocket { background-position: -0px -276px; width: 33px; height: 33px; }
+.position { background-position: -0px -309px; width: 26px; height: 35px; }
+.letter { background-position: -0px -344px; width: 23px; height: 16px; }
+.arrow { background-position: -0px -360px; width: 18px; height: 13px; }
+.heart_g { background-position: -18px -360px; width: 18px; height: 14px; }
+.heart_gr { background-position: -0px -373px; width: 18px; height: 14px; }
+.heart_w { background-position: -18px -374px; width: 18px; height: 14px; }
