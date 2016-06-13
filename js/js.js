@@ -92,16 +92,10 @@ ymaps.ready(function () {
 	
 		$('.nav_call').click(function(e){
 		e.preventDefault();
-		if($('.nav ul').hide())
-			$('.nav ul').css('display','block')
-		else{
-			$('.nav ul').css('display','none')
-		}
+		$('.nav ul').toggle()
+		
 		})
-		$('.nav_ul').click(function(e){
-		e.preventDefault();
-		$('.nav ul').hide()
-		})
+		
 		
 })
 
